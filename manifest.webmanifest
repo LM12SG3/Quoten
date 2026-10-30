@@ -1,0 +1,1 @@
+{"name": "Quoten-Tabelle", "short_name": "Quoten", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f4f5f0", "theme_color": "#1f6b43", "icons": [{"src": "icon.png", "sizes": "180x180", "type": "image/png"}]}
